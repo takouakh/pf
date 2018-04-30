@@ -1,0 +1,28 @@
+Language model created by QuickLM on Fri Feb 13 02:00:22 EST 2015
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+
+
+\data\
+ngram 1=7
+
+
+\1-grams:
+-1.0894 </s> -0.3010
+-1.0894 <s> -0.2586
+-1.6335 AVANCE -0.2803
+-1.9345 RECULE -0.2642
+-1.9345 DROITE -0.2960
+-1.9345 GAUCHE -0.2642
+-1.6335 STOP-0.2803
+
+
+
+
+\end\
