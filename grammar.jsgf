@@ -1,0 +1,13 @@
+#JSGF V1.0;
+grammar commands;
+
+<action> = AVANCE	|
+RECULE |
+DROITE |
+GAUCHE|
+STOP
+		;
+
+
+public <command> = <action>  |
+		 		 ;
